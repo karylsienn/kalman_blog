@@ -1,0 +1,41 @@
+nav {
+   background: rgb(100, 100, 100); 
+   color: rgb(245, 245, 245)
+}
+
+.nopad {
+    padding: 0px;
+    cursor: default;
+}
+
+
+.menu > a:hover {
+    color: rgb(179, 178, 178) !important;
+}
+
+.menu > a {
+    margin: 0px 10px;
+    cursor: pointer;
+}
+
+
+.navbar-brand {
+    cursor: pointer;
+}
+
+.bg2 {
+    background: rgb(129, 129, 129);
+    padding: 15px 20px 16px 20px;
+    min-height: 20vh;
+}
+
+.bg3 {
+    background: url("pexels-data.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
